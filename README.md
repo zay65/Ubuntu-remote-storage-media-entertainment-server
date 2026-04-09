@@ -50,7 +50,7 @@
     <img src="https://github.com/zay65/Ubuntu-remote-storage-media-entertainment-server/blob/3ab67961ee5eb134dfa3b6ea298969bf5db1bed9/Jellyfin%20home%20UI.png" alt="Sample Image" >
   </p>
 
-  <div align="center"> Jellyfin only allows devies on the local network to access the server, meaning I'd have to be at home to watch my movies which defeats the purpose of this being a fully fledged remote server. So I configure Tailscale to recognize my IT server as the main host and Tailscale creates a secure tunnel for me to watch my media from anywhere in the world via VPN   .</div>
+  <div align="center"> Jellyfin only allows devices on the local network to access the server, meaning I'd have to be at home to watch my movies which defeats the purpose of this being a fully fledged remote server. So I configure Tailscale to recognize my IT server as the main host and Tailscale creates a secure tunnel for me to watch my media from anywhere in the world via VPN   .</div>
 
 
  <p align="center">
