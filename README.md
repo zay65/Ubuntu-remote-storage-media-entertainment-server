@@ -1,5 +1,5 @@
 # Ubuntu-remote-storage-media-entertainment-server
-<h3>My Ubuntu (24.04.4 LTS) home server where I can store and share files/pictures with Samba and watch movies/shows with Jellyfin from anywhere in the world using Tailscale.</h3>
+<h3>My Ubuntu (24.04.4 LTS) home server where I can store and share files/pictures with Samba and watch movies/shows I own with Jellyfin from anywhere in the world using Tailscale.</h3>
 
 <div align="center"> After headless Ubuntu server is installed, I reserve the IP address in my router's DHCP settings so that it remains static.</div>
 
