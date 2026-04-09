@@ -43,7 +43,7 @@
     <img src="https://github.com/zay65/Ubuntu-remote-storage-media-entertainment-server/blob/1c96b082cbd909a656e0515c4db41876f51ac6a2/JF%20installed.png" alt="Sample Image" >
   </p>
 
-<div align="center"> Upload movies and shows in MP4 format to the mapped network drive from any of my devices (windows, mac, etc), configure & map my jellyfin media access directory to "myfiles" and create user account(s). .</div>
+<div align="center"> Upload movies and shows in MP4 format to the mapped network drive from any of my devices (windows, mac, etc), configure & map my jellyfin media access directory to "myfiles" and create user account(s).</div>
 
 
  <p align="center">
